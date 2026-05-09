@@ -16,5 +16,8 @@ MelodyHub is a responsive Spotify-inspired music streaming web application built
 - CSS3
 - JavaScript
 
+## Live Demo
+https://melodyhub-music-player.netlify.app
+
 ## Author
 Navraj Singh
